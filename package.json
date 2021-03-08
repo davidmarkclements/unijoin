@@ -1,0 +1,12 @@
+{
+  "name": "unijoin",
+  "version": "1.0.0",
+  "description": "ESM and CJS support for `path.join` of both file paths and file URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": ["path", "join", "esm", "import.meta.url", "import", "file", "url", "file url"],
+  "author": "David Mark Clements (@davidmarkclem)",
+  "license": "MIT"
+}
